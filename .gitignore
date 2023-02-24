@@ -1,0 +1,12 @@
+.vs
+Debug/*
+Release/*
+x64/*
+x86.*
+**/*.filters
+**/*.user
+src/VirtualImage.GUI/Debug/*
+src/VirtualImage.GUI/Release/*
+src/VirtualImage.GUI/x64/*
+src/VirtualImage.GUI/x86/*
+
